@@ -1,3 +1,25 @@
+/*### CSS
+- Each article should use a different font family.
+- All article headings should be the same font color (don't be boring).
+- Site should have a background color or background image. Images google filtered for "Royalty Free"
+- Each article should have a different border(weight,style,color).*/
+
 body{
-  background-color: purple;
+  background-color: white;
+}
+
+#articleOne{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#articleTwo{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#articleThree{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#articleFour{
+  font-family: Arial, Helvetica, sans-serif;
 }
